@@ -1,0 +1,17 @@
+{
+  "createUser": {
+    "name": "Gayathri",
+    "job": "Senior QA Engineer"
+  },
+  "updateUser": {
+    "name": "Gayathri",
+    "job": "Lead QA Engineer"
+  },
+  "validLogin": {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  },
+  "invalidLogin": {
+    "email": "peter@klaven"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "users": "/users?page=2",
+  "singleUser": "/users/2",
+  "createUser": "/users",
+  "updateUser": "/users/2",
+  "deleteUser": "/users/2",
+  "login": "/login"
+}
